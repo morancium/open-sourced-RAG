@@ -1,0 +1,35 @@
+requirements:
+pip3 install huggingface-hub
+pip install git+https://github.com/huggingface/transformers
+pip install -U git+https://github.com/huggingface/transformers.git
+pip3 install torch torchvision torchaudio
+pip install accelerate
+pip install auto-gptq
+pip install optimum
+
+
+
+to solve the error with opencv installation:
+sudo apt-get install libglu1
+sudo apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+pip install opencv-python
+
+
+sudo apt-get install tesseract-ocr
+pip install pytesseract
+
+
+pip install "paddleocr>=2.0.1"
+pip install paddlepaddle
+pip install paddleocr --upgrade
+
+
+pip install pdf2image
+apt-get install poppler-utils
+
+
+RAG Pipeline:
+
+pip -q install -U angle-emb
+pip -q install chromadb
+pip -q install langchain
