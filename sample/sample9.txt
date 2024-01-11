@@ -1,0 +1,31 @@
+Fullstack Engineer at Elucidata
+₹7L – ₹12L
+About Role :   
+The engineering team at Elucidata builds web apps to help scientists analyze their complex data & derive actionable insights. These web apps are highly interactive and data-rich. You will be solving challenges of scale, performance, interactivity, and elegant data visualization.
+We are looking for engineers with a passion to create elegant and scalable web applications to analyze data. You should be able to work with data scientists and engineers to integrate data analysis pipelines across various layers (front-end, back-end, infrastructure)
+Responsibilities:
+Work on planning API for different applications and be involved in their smooth integration with the frontend.
+Work on database creation, integration, and management with different databases. (RDBMS, Nosql, DocumentDB)
+Developing front end applications using React/Angular
+Gather requirements and coordinate with all the stakeholders involved (customers, designers, data scientists & product teams)
+Building reusable code and libraries for future use.
+Requirements:
+Full-stack developer with 2-4 years of experience
+Understanding of web architecture and single-page applications.
+Proficient in developing single page apps using React or Angular
+Strong hands-on programming skills in any backend languages like Python, NodeJS, Go, Java etc.
+Understanding of SQL and NoSQL databases like PostgreSQL, MySQL, DynamoDB, MongoDB etc.
+Familiarity with dockers and AWS ecosystem is a plus
+Strong CS fundamentals and software design principles
+Ability to perform in a fast-paced, deadline-driven environment.
+Good verbal communication and interpersonal skills
+Location Bangalore Urban • Delhi
+Job type Full Time
+Visa sponsorship Not Available
+Remote work policy In office - WFH flexibility
+Experience 2+ years
+Elucidata at a glance
+Biological Big Data Platform For Drug Discovery
+Elucidata focuses on Pharmaceuticals, Bioinformatics, Technology, and Science. Their company has offices in Delhi and Cambridge. They have a mid-size team that's between 51-200 employees. To date, Elucidata has raised $16M of funding; their latest round was closed on September 2022.
+You can view their website at http://elucidata.io/ or find them on Twitter, Facebook, and LinkedIn.
+******************************************************************************************************************

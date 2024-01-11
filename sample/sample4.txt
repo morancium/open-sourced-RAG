@@ -1,0 +1,41 @@
+Full Stack Developer (React js)
+Altimetrik
+‘Work From Home 4-9 Years
+
+About Altimetrik
+
+Altimetrik is a business transformation & technology solutions provider to enterprises in areas of Digital,
+Connected Solutions and Consumer Technologies - working with enterprises on latest trend adoption
+through Outcome Engineering, hand-holding them through thk entire Value Realization cycle and
+realizing this transformation through advanced technologies, design-led engineering principles and our
+unique capability centers. Headquartered in Southfield, Michigan, Altimetrik has its technologists spread
+across the globe including USA (Southfield, Princeton & San Francisco), India (Bengaluru, Chennai, Pune
+& Mumbai), Uruguay (Montevideo), Singapore and UAE (Sharjah).
+
+We at Altimetrik. Simplify technologies. Amplify possibilities.
+
+Job Description
+
+Function: Software Engineering > Full-Stack Development
+Responsibilities:
+‘© Design and develop front-end architecture as well as back-end web applications
+'* Collaborate with the cross-functional teams to discuss and decide effectively on tasks
+‘© Take responsibility of writing and documenting maintainable, adaptable, and scalable, clean
+code
+‘* Perform new development and also participate in maintaining existing code
+‘© Create and run unit tests to ensure a high level of code coverage
+'® Troubleshoot, debug and upgrade software
+‘© Ensure high quality of deliverables and continuous improvement
+Requirements:
+‘© Bachelor's/Master's degree in Engineering, Computer Science (or equivalent experience)
+‘© Atleast 3+ years of years experience in full-stack development (rare exceptions for highly skilled
+developers)
+‘© Solid working experience in Java and J2EE development
+‘© Experience in developing web services using HTTP REST/JSON and SOAP
+‘© Expertise in object-oriented and service-oriented design concepts
+‘© Comprehensive knowledge of Angular framework, web design patterns and front-end
+technologies like HTML, CSS, JavaScript, XML, JQuery and MVC frameworks, etc.
+'* Knowledge of multiple back-end technologies like C#, Java, Python, Nodejjs, etc.
+‘© Strong knowledge of browser DOM with direct manipulation
+‘Hands-on experience working with a continuous integration environment
+'® Fluency in the English language for effective communication

@@ -1,0 +1,57 @@
+₹20L–₹30L a year
+Work from home
+Full–time
+Java Backend Engineer
+
+Experience: 3- 6 Years
+
+Type: Full-time
+
+About Digit88
+
+Digit88 is a niche product engineering consulting company based out of Bangalore with experience of building offshore development centers for US startups and MNCs over the last 6+ years. The founding team has 50+ years of product engineering and services experience out of India and US.
+
+The Opportunity
+
+Digit88 manages and is expanding the dedicated offshore product development team for its US (Bay Area, NYC) based NLP/Chatbot platform development partner, that is building a next-generation AI/NLP/Chatbots based customer engagement platform. The candidate would be joining an existing team of 16+ engineers and help expand Platform Engineering, Production Support and Monitoring services for our client.
+
+Job Profile:
+
+Digit88 is looking for an enthusiastic, self-motivated, hands on Java/J2EE back-end developer to join the back-end engineering team for our partner. Experience with a fast-paced India/US product start-up or a product engineering services company in a developer role, building a high-performance real-time system is mandatory. Applicants must have a passion for engineering with accuracy and efficiency, be highly motivated and organized, able to work as part of a team, and also possess the ability to work independently with minimal supervision.
+
+Job Profile:
+
+To be successful in this role, you should possess:
+• Minimum 3 years working experience working as a Java application developer
+• Strong in Core Java, Data Structures, J2EE
+• Practical experience in Spring MVC, Spring boot, Microservices architecture, Web Services
+• Hands on with MySQL and DynamoDB and/or NoSQL databases, Hibernate
+• Practical experience with Caching frameworks Memcached/Redis, Message Queues
+• Familiarity and experience with CI/CD, Container architecture - Docker/Jenkins and build scripts Maven/Ant
+• Should have built high performance, high availability REST APIs and REST clients.
+
+Minimum Qualifications
+• Bachelor's degree in Computer Science or a related field
+• Minimum of 3 years in Java development
+• Exposure to DevOps technologies
+
+You are someone who would easily be able to
+• Study and learn the latest in AI/NLP/Chatbots domain and the messaging platform
+• Work closely with the US engineering team and India engineering lead to help build the Java/Spring based backend and REST APIs.
+• Own the development of new modules and features
+• Troubleshoot live production server issues.
+• Handle client coordination and be able to work as a part of a team or at times be able to contribute independently with minimal supervision.
+• Perform Unit Testing and Integration testing in a Continuous Deployment scenario
+• Follow Agile methodology, JIRA for work planning, issue management/tracking
+
+Additional Project/Soft Skills:
+• Should be able to work independently with India & US based team members.
+• Strong verbal and written communication with ability to articulate problems and solutions over phone and emails.
+• Strong sense of urgency, with a passion for accuracy and timeliness.
+• Ability to work calmly in high pressure situations and manage multiple projects/tasks.
+• Ability to work independently and possess superior skills in issue resolution.
+• Should have the passion to learn and implement, analyse and troubleshoot issues
+
+Digit88 focuses on Enterprise Software, Health Care Information Technology, Artificial Intelligence, Outsourcing, and Web Development. Their company has offices in Boston and Bengaluru. They have a mid-size team that's between 51-200 employees.
+
+You can view their website at http://www.digit88.com or find them on Twitter, Facebook, and LinkedIn
