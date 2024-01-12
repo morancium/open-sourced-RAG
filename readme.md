@@ -22,6 +22,9 @@ Vector Database: Chromadb
 
 Here by default openchat_3.5-GPTQ is being used. It requires atleat 6 gigs of VRAM for local inference.
 
+To understand how to run this repo, please check the `instruct.txt` and accordingly install requirements.txt  
+To run this, simpliy use command like:  
+`python rag_pipeline.py -s "Image.png" -q "how many years of experience is needed?" "what is the qualification criterion for the job?" "what is the role of the job?" "what is the name of the company??"`
 
 For more information about the embedding model and LLMs, refer to 
 [Personal Doc](https://morancium.notion.site/open-source-rag-implementation-4da61a3fb61846078c1f75753339980e?pvs=25).

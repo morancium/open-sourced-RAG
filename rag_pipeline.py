@@ -46,7 +46,7 @@ results=retrive_topK(query)
 for i,qes in enumerate(query):
     print("Query: \n",qes)
     print(results[i])
-    answer=model_inference(model_name_or_path="zephyr-7b-beta",cv=results[i],query=qes)
+    answer=model_inference(model_name_or_path="openchat-3.5",cv=results[i],query=qes)
     print("\n\n\n")
     print("Query: \n",qes)
     print(answer)
