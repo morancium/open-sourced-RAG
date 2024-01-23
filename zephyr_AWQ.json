@@ -1,0 +1,69 @@
+{"have also included the system prompts": "no",
+
+    "java_banglore.png": {
+        "job_role": "Fullstack Developer - Java",
+        "company_name": "LriMindtree",
+        "total_experience": "Atleast 5-8 years",
+        "salary": "",
+        "responsibilities": "",
+        "relevent_experience": "Java8 + Angular 3/4 + Spring + rest services + document tracker tool (Jira / Github / Gitlab) +CICD Pipeline Good + Good Communication",
+        "required_skills": "Java8 + Angular 3/4 + Spring + rest services + document tracker tool (Jira / Github / Gitlab) +CICD Pipeline Good + Good Communication",
+        "qualification": "",
+        "location": "Virtual (Google Meet/Zoom)",
+        "unknown": "",
+        "execution_time": "6411.0352993011475ms"
+    },
+    "java_backend_engineer.png": {
+        "job_role": "Java Backend Engineer",
+        "company_name": "Digit88",
+        "total_experience": "3- 6 Years",
+        "salary": "201-830L",
+        "location": "Work from home",
+        "type": "Full-time",
+        "responsibilities": "",
+        "relevent_experience": "",
+        "required_skills": "Java/2EE back-end developer, Core Java, Spring MVC, Spring boot, Microservices architecture, Web Services, MySQL and DynamoDB and/or NoSQL databases, Hibernate, Memcached/Redis, Message Queues, CI/CD, Container architecture - Docker/Jenkins and build scripts Maven/Ant",
+        "qualification": "",
+        "unknown": "",
+        "execution_time": "6017.557621002197ms"
+    },
+    "product_owner.png": {
+        "job_role": "Product Owner - Business Analyst",
+        "company_name": "Inspire Brands",
+        "total_experience": "4-9 Years",
+        "salary": "",
+        "responsibilities": "Data Science and Analysis -> Data Analysis / Business Intelligence, Product Management\n'\u00a9 Design, develop, test, deploy, maintain, and improve the software.\n'\u00a9 Preparing and maintaining systems and program documentation.\n'\u00a9 Assisting in the analysis and development of applications programs and databases.\n'\u00a9 Modifying and troubleshooting application programs.\n'\u00a9 Coaching, mentoring, and guiding junior developer engineers.\n'\u00a9 Provide key support on fail and fix for assigned application/s.\n'\u00ae Undertake complex testing activities in relation to software solutions.\n'\u00a9 Ensure Back Ups, Currency & Patching are maintained to the correct standards.",
+        "relevent_experience": "",
+        "required_skills": "Astrong technical background and in-depth understanding of financial products and domains (operations, process, end users, customers, regulations).\n'\u00a9 Knowledge and experience with microservices/APIs and Cloud technology.",
+        "qualification": "Tertiary qualified with Degree in Business/ IT and preference to post-graduate qualifications.",
+        "location": "",
+        "unknown": "",
+        "execution_time": "8930.694103240967ms"
+    },
+    "react_js.png": {
+        "job_role": "Full Stack Developer (React js)",
+        "company_name": "Altimetrik",
+        "total_experience": "4-9 Years",
+        "salary": "",
+        "responsibilities": "\u00a9 Design and develop front-end architecture as well as back-end web applications\n* Collaborate with the cross-functional teams to discuss and decide effectively on tasks\n\u00a9 Take responsibility of writing and documenting maintainable, adaptable, and scalable, clean code\n* Perform new development and also participate in maintaining existing code\n\u00a9 Create and run unit tests to ensure a high level of code coverage\n'\u00ae Troubleshoot, debug and upgrade software\n\u00a9 Ensure high quality of deliverables and continuous improvement",
+        "relevent_experience": "Atleast 3+ years of years experience in full-stack development (rare exceptions for highly skilled developers)",
+        "required_skills": "Solid working experience in Java and J2EE development\n'\u00a9 Experience in developing web services using HTTP REST/JSON and SOAP\n'\u00a9 Expertise in object-oriented and service-oriented design concepts\n'\u00ae Comprehensive knowledge of Angular framework, web design patterns and front-end technologies like HTML, CSS, JavaScript, XML, JQuery and MVC frameworks, etc.\n'* Knowledge of multiple back-end technologies like C#, Java, Python, Node, etc.\n'\u00a9 Strong knowledge of browser DOM with direct manipulation\n'* Hands-on experience working with a continuous integration environment",
+        "qualification": "Bachelor's/Master's degree in Engineering, Computer Science (or equivalent experience)",
+        "location": "",
+        "unknown": "",
+        "execution_time": "10485.415935516357ms"
+    },
+    "java.png": {
+        "job_role": "SDE 3 (Java)",
+        "company_name": "BetterPlace",
+        "total_experience": "3-8 Years",
+        "salary": "",
+        "responsibilities": "* Design and build advanced Java applications.\n* Collaborate with cross-functional teams to define, design, and ship new features.\n* Work with outside data sources and APIS.\n+ Unit-test code for robustness, including edge cases, usability, and general reliability,\n* Work on bug fixing and improving application performance.",
+        "relevent_experience": "",
+        "required_skills": "* More than 4 years of Experience with Java technologies.\n* Bachelors/Masters in Engineering or equivalent.\n* Advanced coding experience in Java.\n* Expertise in messaging systems and queues in Kafka, ActiveMMQ/RabbitMQ,\n* Experience in databases like MySql and NoSQL databases such as MongoB, Elasticsearch,\n* Exposure to the Cloud (AWS/GCP) applications.",
+        "qualification": "Bachelors/Masters in Engineering or equivalent.",
+        "location": "",
+        "unknown": "\u2018Why Explore a Career at BetterPlace\n\n+ This is an excellent opportunity to work with a well-funded startup. Holistic growth for our\nemployees is a key driver and we strive to provide several opportunities for career\nadvancement.\n\n* Our team comprises leaders from across Industries who designed & executed strategies that\npaved way for strong organizational growth. with strong skillset, vast experience and the\nwillingness to make a difference, our team is firmly marching towards driving change in the\n'",
+        "execution_time": "10765.100002288818ms"
+    }
+}

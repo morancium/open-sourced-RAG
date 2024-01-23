@@ -1,0 +1,119 @@
+{
+    "java_banglore.png": {
+        "job_role": "Fullstack Developer - Java",
+        "company_name": "LTIMindtree",
+        "total_experience": "6-8 years",
+        "salary": "",
+        "responsibilities": "Not mentioned",
+        "relevent_experience": "5-8 years",
+        "required_skills": "Java8 + Angular 3/4 + Spring + rest services + document tracker tool (Jira / Github / Gitlab) + CICD Pipeline Good + Good Communication",
+        "qualification": "Not mentioned",
+        "location": "Bangalore, Delhi, Mumbai",
+        "unknown": "About LTIMindtree, LTIMindtree is a global technology consulting and digital solutions company that enables enterprises across industries to reimagine business models, accelerate innovation, and maximize growth by harnessing digital technologies. As a digital transformation partner to more than 700+ clients, LTIMindtree brings extensive domain and technology expertise to help drive superior competitive differentiation, customer experiences, and business outcomes in a converging world,",
+        "execution_time": "497988.61360549927ms"
+    },
+    "java_backend_engineer.png": {
+        "job_role": "Java Backend Engineer",
+        "company_name": "Digit88",
+        "total_experience": "3-6 years",
+        "salary": "201-830L",
+        "responsibilities": "",
+        "relevent_experience": "3 years",
+        "required_skills": "Core Java, Data Structures, J2EE, Spring MVC, Spring boot, Microservices architecture, Web Services, MySQL and DynamoDB and/or NoSQL databases, Hibernate, Caching frameworks Memcached/Redis, Message Queues, CI/CD, Container architecture - Docker/Jenkins and build scripts Maven/Ant",
+        "qualification": "",
+        "location": "Work from home",
+        "unknown": "",
+        "execution_time": "348734.19189453125ms"
+    },
+    "product_owner.png": {
+        "job_role": "Product Owner - Business Analyst",
+        "company_name": "Inspire Brands",
+        "total_experience": "4-9 Years",
+        "salary": "",
+        "responsibilities": [
+            "Design, develop, test, deploy, maintain, and improve the software.",
+            "Preparing and maintaining systems and program documentation.",
+            "Assisting in the analysis and development of applications programs and databases.",
+            "Modifying and troubleshooting application programs.",
+            "Coaching, mentoring, and guiding junior developer engineers.",
+            "Provide key support on fail and fix for assigned application/s.",
+            "Undertake complex testing activities in relation to software solutions.",
+            "Ensure Back Ups, Currency & Patching are maintained to the correct standards."
+        ],
+        "relevent_experience": "4 years",
+        "required_skills": [
+            "Strong technical background and in-depth understanding of financial products and domains",
+            "Knowledge and experience with microservices/APIs and Cloud technology",
+            "Creativity and ability to simplify complex processes and issues, problem-solving, and process analysis",
+            "Management of stakeholders and their expectations",
+            "Deep understanding and experience with Agile methodologies",
+            "Ability to work with cross-functional teams to deliver on a common goal",
+            "Interpersonal skills and developing relationships with team members and customers",
+            "Experience in working with the business to define the product roadmap",
+            "Scrum Master/ Product Owner/ Safe certification preferred"
+        ],
+        "qualification": "Degree in Business/ IT and preference to post-graduate qualifications",
+        "location": "Hyderabad",
+        "unknown": "",
+        "execution_time": "746477.5469303131ms"
+    },
+    "react_js.png": {
+        "job_role": "Full Stack Developer (React js)",
+        "company_name": "Altimetrik",
+        "total_experience": "4-9 Years",
+        "salary": "",
+        "responsibilities": [
+            "Design and develop front-end architecture as well as back-end web applications",
+            "Collaborate with the cross-functional teams to discuss and decide effectively on tasks",
+            "Take responsibility of writing and documenting maintainable, adaptable, and scalable, clean code",
+            "Perform new development and also participate in maintaining existing code",
+            "Create and run unit tests to ensure a high level of code coverage",
+            "Troubleshoot, debug and upgrade software",
+            "Ensure high quality of deliverables and continuous improvement"
+        ],
+        "relevent_experience": "3+ years of years experience in full-stack development",
+        "required_skills": [
+            "Bachelor's/Master's degree in Engineering, Computer Science (or equivalent experience)",
+            "Solid working experience in Java and J2EE development",
+            "Experience in developing web services using HTTP REST/JSON and SOAP",
+            "Expertise in object-oriented and service-oriented design concepts",
+            "Comprehensive knowledge of Angular framework, web design patterns and front-end technologies like HTML, CSS, JavaScript, XML, JQuery and MVC frameworks, etc.",
+            "Knowledge of multiple back-end technologies like C#, Java, Python, Node, etc.",
+            "Strong knowledge of browser DOM with direct manipulation",
+            "Hands-on experience working with a continuous integration environment",
+            "Fluency in the English language for effective communication"
+        ],
+        "qualification": "Bachelor's/Master's degree in Engineering, Computer Science (or equivalent experience)",
+        "location": "",
+        "unknown": "",
+        "execution_time": "814516.0238742828ms"
+    },
+    "java.png": {
+        "job_role": "SDE 3 (Java)",
+        "company_name": "BetterPlace",
+        "total_experience": "3-8 Years",
+        "salary": "",
+        "responsibilities": [
+            "Design and build advanced Java applications.",
+            "Collaborate with cross-functional teams to define, design, and ship new features.",
+            "Work with outside data sources and APIs.",
+            "Unit-test code for robustness, including edge cases, usability, and general reliability,",
+            "Work on bug fixing and improving application performance."
+        ],
+        "relevent_experience": "3-8 Years",
+        "required_skills": [
+            "More than 4 years of Experience with Java technologies.",
+            "Bachelors/Masters in Engineering or equivalent.",
+            "Advanced coding experience in Java.",
+            "Expertise in messaging systems and queues in Kafka, ActiveMMQ/RabbitMQ,",
+            "Experience in databases like MySql and NoSQL databases such as MongoB, Elasticsearch,",
+            "Exposure to the Cloud (AWS/GCP) applications.",
+            "Good understanding of design patterns and data structures.",
+            "Unit testing and automation frameworks and versioning tools."
+        ],
+        "qualification": "Bachelors/Masters in Engineering or equivalent.",
+        "location": "Bangalore",
+        "unknown": "",
+        "execution_time": "591602.2675037384ms"
+    }
+}
