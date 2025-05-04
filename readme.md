@@ -1,5 +1,5 @@
 # Open-Sourced RAG Pipeline
-![RAG Workflow](assets\RAG.png "RAG Workflow")
+![RAG Workflow](assets/RAG.png "RAG Workflow")
 Transform your document processing workflow with this powerful Retrieval-Augmented Generation (RAG) pipeline. This project provides a robust solution for extracting insights from various document formats, including PDFs, images, and text files, using state-of-the-art language models and vector embeddings.
 
 ## Project Requirements
