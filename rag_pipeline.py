@@ -1,8 +1,8 @@
 # from library import *
 import glob
 import argparse
-from ocr import *
-from retrival import insert_db_text, retrive_topK
+from utils.ocr import *
+from retriever import insert_db_text, retrive_topK
 from inference import model_inference
 ap = argparse.ArgumentParser()
 ap.add_argument("-s", "--source",help="path to the source",nargs="+",type=str)

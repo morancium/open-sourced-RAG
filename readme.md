@@ -2,7 +2,7 @@
 
 This repository implements Retrieval Augmented Generation (RAG), a powerful technique utilizing open source Language Models (LLMs) and Embedding models. It allows users to convert documents in various formats (Image, PDF, or Text) into vectors and store them in a vector database for efficient retrieval.
 
-![RAG Workflow](RAG.png "RAG Workflow")
+![RAG Workflow](assets\RAG.png "RAG Workflow")
 
 ## Purpose
 
